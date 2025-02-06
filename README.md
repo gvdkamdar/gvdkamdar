@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Gaurav! 👋
 
 ![Profile Banner](https://your-image-url.com/banner.png)
 
