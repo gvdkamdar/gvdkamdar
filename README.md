@@ -10,7 +10,7 @@ I'm a passionate developer with a keen interest in [Your Interests, e.g., Machin
 🌱 I’m currently learning [Technology/Language]
 👯 I’m looking to collaborate on [Project Type]
 💬 Ask me about [Topics]
-📫 How to reach me: [Your Email]
+📫 How to reach me: gkamdar@cs.stonybrook.edu
 ⚡ Fun fact: [Something Interesting About You]
 
 ## Technologies & Tools
