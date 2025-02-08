@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in [Your Interests, e.g., Machine Learning, Web Development, etc.]. I enjoy building innovative solutions and contributing to open-source projects.
+I am a Computer Science graduate student at Stony Brook University with a strong foundation in software engineering, data science, and machine learning. My experience spans building scalable distributed systems, developing data-driven insights for strategic decision-making, and researching AI alignment in vision-language models. I have worked on high-impact projects in industry and academia, from optimizing data pipelines at Deloitte to extracting socio-economic insights using ML at Stony Brook. Passionate about system design, AI, and full-stack development, I thrive on solving complex problems and driving innovation through technology.
 
 🔭 I’m currently working on [Project Name](https://github.com/yourusername/projectname)
 🌱 I’m currently learning [Technology/Language]
