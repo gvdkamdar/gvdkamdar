@@ -1,6 +1,5 @@
 # Hello, I'm Gaurav! 👋
 
-![Profile Banner](https://github.com/gvdkamdar/gvdkamdar/blob/main/IMG_3217.jpeg))
 [Profile Banner](https://your-image-url.com/banner.png)
 
 ## About Me
