@@ -24,15 +24,15 @@ I am a Computer Science graduate student at Stony Brook University with a strong
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvdkamdar&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvdkamdar&layout=compact&theme=radical)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/gvdkamdar/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourprofile)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me)](https://yourwebsite.com)
 
